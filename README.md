@@ -1,3 +1,5 @@
+<!-- Replace YOUR_USERNAME with your actual GitHub username everywhere below -->
+ 
 <div align="center">
 ```
  █████╗  █████╗ ███████╗██╗  ██╗██╗███████╗██╗  ██╗
@@ -7,8 +9,6 @@
 ██║  ██║██║  ██║███████║██║  ██║██║███████║██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
 ```
- 
-**AASHISH PANDIT**
 
 <h1 align="center">Aashish Pandit</h1>
 
