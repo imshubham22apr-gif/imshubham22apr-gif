@@ -35,20 +35,7 @@ const aashish = {
 
 ---
 
-## 🔧 Open Source Contributions
 
-| Project | Org | Area | Status |
-|---|---|---|---|
-| **gittuf** | OpenSSF | Policy engine, TUI, RSA signing | 🟣 Active |
-| **KubeEdge** | CNCF | Edge node metrics, device mapper | 🟣 Merged |
-| **Kmesh** | CNCF | eBPF service mesh observability | 🟣 Merged |
-| **KubeStellar** | CNCF | Multi-cluster binding policy | 🟣 Merged |
-| **sktime** | PyData | Probabilistic forecasting pipeline | 🔵 Open |
-| **OpenROAD** | OpenROAD | EDA toolchain bug fixes | 🔵 Open |
-| **fabric-token-sdk** | Hyperledger | Token lifecycle | 🔵 Open |
-| **sbomit · pgmpy · Joplin · gemini-cli** | Various | Fixes & docs | 🔵 Open |
-
----
 
 ## 🚀 Featured Projects
 
