@@ -18,7 +18,6 @@
 
 <p align="center">
   B.Tech CS (AI/ML) · DevOps & OSS contributor · LFX Mentee candidate · Bangalore<br/>
-  <em>Air Force family → reliability is personal</em>
 </p>
 
 ---
